@@ -71,11 +71,15 @@ simply illustrated by the following flowchart.
 <p align="center">
   <img src="https://github.com/bangnguyen1122/Voice-Controlled-Smart-Lighting-System-for-Smart-Home/blob/master/images/Flowchart-of-Light-Control-Algorithm-for-Automatic-and-Timer-Modes.png">
   <br>
-  <em>Figure 1: Flowchart of Light Control Algorithm for Automatic and Timer Modes.</em>
+  <em>Figure 2: Flowchart of Light Control Algorithm for Automatic and Timer Modes.</em>
 </p>
 
 ### 1.5. Circuit Diagram
-
+<p align="center">
+  <img src="https://github.com/bangnguyen1122/Voice-Controlled-Smart-Lighting-System-for-Smart-Home/blob/master/images/Circuit-Diagram-of-the-System.png">
+  <br>
+  <em>Figure 3: Circuit Diagram of the System.</em>
+</p>
 
 ## 2. Results and Evaluation
 ### 2.1. Results
